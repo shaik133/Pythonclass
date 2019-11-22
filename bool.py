@@ -1,0 +1,6 @@
+a=bool(10)
+b=bool(0)
+c=bool(10.5)
+d=bool(0.0)
+e=bool("")
+f=bool("10")
